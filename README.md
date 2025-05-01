@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Mukund Kumar Jha @Mukund-cpu
-- 👀 I’m interested in programming/Algorithim design/Python
-- 🌱 I’m currently learning AI/LLM
-- 💞️ I’m looking to collaborate on AI related to graphic rendering
+- 👋 Hi, I’m Mukund Kumar Jha
 - 📫 How to reach me mukundiiit@gmail.com 
 
 <!---
